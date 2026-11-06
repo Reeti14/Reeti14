@@ -1,11 +1,17 @@
-## Hi there 👋
+## həˈlō
 
-#  About Me:
-* **I’m currently working on:** CaneCare (a machine learning sugarcane disease detection system using MobileNetV2).
-* **I’m currently learning:** Advanced Data Structures and Algorithms in Java.
-* **I’m looking to collaborate on:** Open-source projects within the Wikimedia ecosystem (MediaWiki, Wikidata) and always hunting for creative new projects to learn from.
-* **Ask me about:** Open-source contributions, organizing tech community events (like GDG or TFUG Prayagraj), and technical community building.
-* **Fun fact:** When I’m not untangling logic on a screen, my creativity shifts to curating the perfect canvas.
+$ whoami
+reeti // cs student, prayagraj
+
+$ cat now.txt
+→ CaneCare: teaching MobileNetV2 to read sugarcane leaves
+→ DSA in Java, one hard problem at a time
+→ lurking (and contributing) in MediaWiki & Wikidata
+
+$ ls interests/
+open-source/  community-events/  design/
+
+$ echo "ask me about GDG, TFUG & wikimedia"
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reeti_57676) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reeti_singh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reeti-singh-09748b291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetisingh861@gmail.com) 
